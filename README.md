@@ -6,7 +6,7 @@ I do **NOT** encourage malicious use of this code. This was made for educational
 
       
   
-Bot / Bot (EXE/DLL/MSI)
+Bot / Bot (EXE/DLL/MSI) 
 -----------------------------------------------------------------------------------------------
 FEATURES:
 
