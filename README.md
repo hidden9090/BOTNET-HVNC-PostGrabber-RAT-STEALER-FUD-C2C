@@ -85,7 +85,7 @@ Server for working with the bot directly / Online Server:
 Panel for working online in the form of an exe application for Windows.
 
 Socks5 server support. (+API)
-
+ 
 Port forwarding.
 
 Information about processes.
