@@ -12,7 +12,7 @@ FEATURES:
 
 ->Stealer (FF,OP,CH,IE,EG).
 
-->Post Grabber (EG,FF,OP,CH,IE)
+->Post Grabber (EG,FF,OP,CH,IE) 
 
 ->HTML injects with extended Zeus format.   
 
