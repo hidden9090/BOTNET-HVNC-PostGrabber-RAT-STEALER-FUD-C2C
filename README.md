@@ -3,7 +3,7 @@ This HVNC Client and Server is based off  BOTNET+HVNC+PostGrabber+RAT+STEALER+FU
  
 I do **NOT** encourage malicious use of this code. This was made for educational purposes only. 
    
-       
+        
              
   
 Bot / Bot (EXE/DLL/MSI) 
