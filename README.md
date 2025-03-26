@@ -1,7 +1,7 @@
 # BOTNET-HVNC-PostGrabber-RAT-STEALER-FUD-C2C 
 This HVNC Client and Server is based off  BOTNET+HVNC+PostGrabber+RAT+STEALER+FUD+C2C  
  
-I do **NOT** encourage malicious use of this code. This was made for educational purposes only. 
+I do **NOT** encourage malicious use of this code. This was made for educational purposes only.  
      
                          
                            
